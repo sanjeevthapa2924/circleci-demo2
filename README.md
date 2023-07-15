@@ -1,6 +1,8 @@
 # CircleCI Tutorial
 
-This repo corresponds to the tutorial I made for [CircleCI](https://circleci.com/). The tutorial can be found on [my blogpost here](http://www.srcmake.com/home/circleci).
+This repo corresponds to the tutorial I made for [CircleCI](https://circleci.com/). 
+
+This tutorial is been modified by SANJEEV THAPA from (http://www.srcmake.com/home/circleci).
 
 There are two Python files, one contains a function, and one contains a test.
 
